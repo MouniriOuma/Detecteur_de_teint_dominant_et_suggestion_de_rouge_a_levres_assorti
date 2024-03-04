@@ -32,11 +32,18 @@ This Python script performs skin color analysis and suggests suitable lipstick c
 
 - Example for medium skin
   
-![medium skin example](example3.jpeg)
+![medium skin example](example3.jpeg)  
 
 - Example for dark skin
     
 ![dark skin example](example2.jpeg)
 
 
+## Feedback and Contributions
+
+Your feedback is invaluable to me! If you have any suggestions, feature requests, or encounter any issues while using this code, please feel free to reach out to me.
+
+## Contact Information
+
+For more information or inquiries, please contact OUMAIMA MOUNIRI at mouniri.ouma@gmail.com
 
