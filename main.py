@@ -288,5 +288,6 @@ plt.barh(range(len(lipstick_suggestions)), [1]*len(lipstick_suggestions), color=
 plt.yticks(range(len(lipstick_suggestions)), lipstick_suggestions)
 plt.title('Lipstick Color Suggestions')
 
+#show
 plt.subplots_adjust(hspace=0.5, wspace=0.5)
 plt.show()

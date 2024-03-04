@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Detecteur_de_teint_dominant_et_suggestion_de_rouge_a_levres_assorti.iml" filepath="$PROJECT_DIR$/.idea/Detecteur_de_teint_dominant_et_suggestion_de_rouge_a_levres_assorti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dominant_Skin_Tone_Detector_and_Matching_Lipstick_Suggestion.iml" filepath="$PROJECT_DIR$/.idea/Dominant_Skin_Tone_Detector_and_Matching_Lipstick_Suggestion.iml" />
     </modules>
   </component>
 </project>
